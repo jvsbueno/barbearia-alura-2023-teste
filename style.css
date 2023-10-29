@@ -6,7 +6,7 @@ body {
 	width:100%;
 }
 
-h1 {
+.principal-titulo {
 	text-align: center
 }
 
@@ -17,7 +17,7 @@ p {
 #missao {
 	font-size: 20px
 }
-/*próxima aula */
+
 em strong {
 	color: #FF0000;
 }
@@ -30,7 +30,7 @@ em strong {
 	background: #FFFFFF;
 	padding: 20px;
 }
-
+/*próxima aula */
 h2 {
 	text-align: center;
 }
@@ -49,4 +49,8 @@ ul {
 .principal{
 	background: #CCCCCC;
 	padding: 30px;
+}
+
+.cabeçalho-titulo{
+	padding-left: 20px;
 }
